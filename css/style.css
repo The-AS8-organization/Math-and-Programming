@@ -178,6 +178,7 @@ ul {
     padding: 11px 16px 14px 15px;
     margin-right: 25px;
 }
+
 a:hover {
     color: #fff;
 }
@@ -476,4 +477,8 @@ button.main_bt a:hover {
 
 .changed {
     color: #fff;
+}
+
+.read_bt:hover{
+    transform: scale(1.1);
 }
